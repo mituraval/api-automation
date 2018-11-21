@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3289" started-at="2018-11-21T00:24:25Z" finished-at="2018-11-21T00:24:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3289" started-at="2018-11-21T00:24:25Z" finished-at="2018-11-21T00:24:28Z">
+      <class name="httpget.Testrequests">
+        <test-method status="PASS" signature="setBaseUri()[pri:0, instance:httpget.Testrequests@42a311]" name="setBaseUri" is-config="true" duration-ms="607" started-at="2018-11-21T00:24:25Z" finished-at="2018-11-21T00:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUri -->
+        <test-method status="PASS" signature="checkResponse()[pri:1, instance:httpget.Testrequests@42a311]" name="checkResponse" duration-ms="2077" started-at="2018-11-21T00:24:25Z" finished-at="2018-11-21T00:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponse -->
+        <test-method status="PASS" signature="postCheck()[pri:2, instance:httpget.Testrequests@42a311]" name="postCheck" duration-ms="381" started-at="2018-11-21T00:24:28Z" finished-at="2018-11-21T00:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCheck -->
+        <test-method status="PASS" signature="commentsCheck()[pri:3, instance:httpget.Testrequests@42a311]" name="commentsCheck" duration-ms="84" started-at="2018-11-21T00:24:28Z" finished-at="2018-11-21T00:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commentsCheck -->
+        <test-method status="PASS" signature="userCheck()[pri:4, instance:httpget.Testrequests@42a311]" name="userCheck" duration-ms="94" started-at="2018-11-21T00:24:28Z" finished-at="2018-11-21T00:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCheck -->
+      </class> <!-- httpget.Testrequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
